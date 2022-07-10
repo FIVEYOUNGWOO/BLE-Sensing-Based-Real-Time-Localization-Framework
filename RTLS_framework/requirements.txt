@@ -1,0 +1,20 @@
+APScheduler==3.9.1
+decorator==4.4.2
+docopt==0.6.2
+entrypoints==0.3
+Faker==8.2.0
+Flask==2.1.2
+Jinja2==3.1.2
+livereload==2.6.3
+matplotlib==3.5.1
+PyQt5==5.15.6
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.10.1
+requests==2.25.1
+schedule==1.1.0
+urllib3==1.26.7
+uvicorn==0.17.6
+vine==5.0.0
+vsearch==1.1.0
+
+pip3 install git+https://github.com/yjg30737/pyqt-translucent-full-loading-screen-thread.git --upgrade
