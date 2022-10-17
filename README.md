@@ -1,4 +1,4 @@
-## RTLS-framework
+## RTLS-Framework
 
 Implementation of Real-Time Location System (RTLS) framework in Python.
 
