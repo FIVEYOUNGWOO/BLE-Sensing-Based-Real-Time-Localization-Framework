@@ -1,10 +1,10 @@
-## BLE-WiFI-Based-Real-Time-Localization-Framework
+## BLE-WiFi-Based Real-Time Localization Framework
 
-Implementation of Real-Time Location System (RTLS) framework in Python.
+This code supports a real-time location estimation system (RTLS) framework, utilizing multiple gateways and beacons for detecting and tracking various objects indoors.
 
-The systems give the estimated target location and control the IoT devices.
+Within this RTLS framework, BLE packets broadcast by several beacons are collected by each gateway. The collected data is recorded via an HTTP-based system. The RSSI values measured by the gateways are processed in real-time using Flask, enabling the parsing and recording of each beacon's information. Furthermore, The estimated location is automatically calculated from quadrilateral methods in the local server, it displays the estimated coordinates of each beacon on a graphical map in OpenCV.
 
-However, since this project is related to INTFLOW(inc), it's can't apply to commercial or business projects.
+We have ascertained that the positioning accuracy of the RTLS framework achieved a precision of 94% in a 3X7 m indoor scenario.
 
 ## Requirements
 - (HW) MINEW IoT G1 gateway
