@@ -11,3 +11,4 @@ However, since this project is related to INTFLOW(inc), it's can't apply to comm
 - (HW) MINEW E5, E7, E8 beacons
 - (SW) Flask
 - (SW) Python
+- (SW) OpenCV
