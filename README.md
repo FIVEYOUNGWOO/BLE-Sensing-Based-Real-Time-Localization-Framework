@@ -1,4 +1,4 @@
-## Real-Time-Location-System-Framework
+## BLE-WiFI-Based-Real-Time-Localization-Framework
 
 Implementation of Real-Time Location System (RTLS) framework in Python.
 
