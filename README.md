@@ -1,4 +1,4 @@
-## BLE-WiFi-Based Real-Time Localization Framework
+## BLE-Sensing-Based Real-Time Localization Framework
 
 This code supports a real-time location estimation system (RTLS) framework, utilizing multiple gateways and beacons for detecting and tracking various objects indoors.
 
